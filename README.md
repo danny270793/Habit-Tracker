@@ -2,7 +2,7 @@
 
 Daily habit tracking. Guest data stays on the device. Signed-in data is stored per user in Supabase.
 
-Flutter **3.47.2** (see [`.tool-versions`](.tool-versions)). Android application ID: `io.github.danny270793.timetracker`. iOS bundle ID: `io.github.danny270793.timetracker`.
+Flutter **3.47.2** (see [`.tool-versions`](.tool-versions)). Android application ID: `io.github.danny270793.habittracker`. iOS bundle ID: `io.github.danny270793.timetracker`.
 
 ## Quick start
 
