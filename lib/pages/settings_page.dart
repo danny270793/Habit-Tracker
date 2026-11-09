@@ -21,7 +21,7 @@ import '../l10n/app_localizations.dart';
 import '../widgets/bottom_sheet_pinned_title.dart';
 
 const _playStoreUrl =
-    'https://play.google.com/store/apps/details?id=io.github.danny270793.timetracker';
+    'https://play.google.com/store/apps/details?id=io.github.danny270793.habittracker';
 
 String _languageOptionLabel(AppLocalizations l10n, AppLanguagePreference p) =>
     switch (p) {
